@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <title>每日见闻</title>
+        <link rel="shortcut icon" href="https://book.ourfor.top/favicon.ico" />
+    </head>
+    <body>
+        <%include header.ejs%>
+        <%-content%>
+        <!-- 循环数据 -->
+        <%for(let i=0;i<news.length;i++){ %>
+            <li><%= news[i]%></li>
+        <%}%>
+        <!-- 条件判断 -->
+        <%if(test>0){%>
+            判断结果<%='test > 0'%>
+        <%} else{%>
+            判断结果<%='test < 0'%>
+        <%}%>
+
+    author: <%=author%>
+    email: <%=email%>
+    </body>
+</html>
