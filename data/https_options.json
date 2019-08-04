@@ -1,0 +1,13 @@
+{
+	"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3",
+	"Accept-Encoding":"utf-8",
+	"Accept-Language":"zh-TW,zh-CN;q=0.9,zh;q=0.8,en;q=0.7",
+	"Cache-Control":"no-cache",
+	"Connection":"keep-alive",
+	"Cookie":"_ga=GA1.2.1345226789.1562028531; _octo=GH1.1.259011937.1562028532; _device_id=1449d92869c243b193f433997bb1dde9; user_session=CJFu-0qlKKgtYVCfmn6n5hfpvzcA-7hEoq1_62LIX1cbXDQ4; __Host-user_session_same_site=CJFu-0qlKKgtYVCfmn6n5hfpvzcA-7hEoq1_62LIX1cbXDQ4; logged_in=yes; dotcom_user=ourfor; has_recent_activity=1; tz=Asia%2FShanghai; _gat=1; _gh_sess=WVcwMHo4eUhyb2s0ZUMrUldEYW1TdkMyZFhhZVZXbWZQdUQzNndvVS9KeDlkTVF0bDNOZG85QThxWFNKb1RDM0t4cXNMdlc3YlMxWGdOMjJUWXFsSFBWallxczMzOVJHVldkM3hOQlNsNDVWUUhadTJmQndTL1h0eGhnTzVJTHlwdmRvZUovREFNUzRuZjkrVUxmUUE3MDRHTC9kM2xVdkQ1OEo1Lzd1OFZEdncxTFBsYUJsZmhrQTZERGxaRGMyK3Y2a1pPb1RDUjV3aHgzVkZGRGhNMVlpNVNocTQ5ZXluYU9qWUN0M0hXdzdEcEJiOUhQcXRvQVVkSEtodVZQcXFEcXdHWmpkTHJsZXk1allKZU1Za0JFRmFuSGh5eGpHKzI3M2g3RkxQZFZmaTB2YUc0M25pekMvQXQ2b2FWM3NneGhiVWQ1b3UxY0RuVnk1UHVFSzVBPT0tLUJaZktoalBrMWN2NU5Zc1RNUGFvOXc9PQ%3D%3D--852af9c224785971e3cb9dc27b647d0cd4b8e8fa",
+	"Host":"github.com",
+	"Pragma":"no-cache",
+	"Referer":"https,//github.com/",
+	"Upgrade-Insecure-Requests":1,
+	"User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+}
