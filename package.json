@@ -15,7 +15,7 @@
   "devDependencies": {
     "ejs": "^2.6.2",
     "jquery": "^3.4.1",
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "koa-bodyparser": "^4.2.1",
     "koa-views": "^6.2.0",
     "nexe": "^3.3.2",
