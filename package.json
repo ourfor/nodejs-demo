@@ -3,7 +3,7 @@
     "art-template": "^4.13.2",
     "body-parser": "^1.19.0",
     "event": "^1.0.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "koa": "^2.7.0",
     "koa-art-template": "^1.1.1",
     "koa-router": "^7.4.0",
